@@ -1,0 +1,83 @@
+{
+  "name": "IIHF World Championship 2026",
+  "matches": [
+    {"round": "Preliminary Round - Group A", "date": "2026-05-15", "time": "16:20 UTC+2", "team1": "Finland", "team2": "Germany", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-15", "time": "16:20 UTC+2", "team1": "Canada", "team2": "Sweden", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-15", "time": "20:20 UTC+2", "team1": "USA", "team2": "Switzerland", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-15", "time": "20:20 UTC+2", "team1": "Czech Republic", "team2": "Denmark", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-16", "time": "12:20 UTC+2", "team1": "Great Britain", "team2": "Austria", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-16", "time": "12:20 UTC+2", "team1": "Slovakia", "team2": "Norway", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-16", "time": "16:20 UTC+2", "team1": "Hungary", "team2": "Finland", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-16", "time": "16:20 UTC+2", "team1": "Italy", "team2": "Canada", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-16", "time": "20:20 UTC+2", "team1": "Switzerland", "team2": "Latvia", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-16", "time": "20:20 UTC+2", "team1": "Slovenia", "team2": "Czech Republic", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-17", "time": "12:20 UTC+2", "team1": "Great Britain", "team2": "USA", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-17", "time": "12:20 UTC+2", "team1": "Italy", "team2": "Slovakia", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-17", "time": "16:20 UTC+2", "team1": "Austria", "team2": "Hungary", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-17", "time": "16:20 UTC+2", "team1": "Denmark", "team2": "Sweden", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-17", "time": "20:20 UTC+2", "team1": "Germany", "team2": "Latvia", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-17", "time": "20:20 UTC+2", "team1": "Norway", "team2": "Slovenia", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-18", "time": "16:20 UTC+2", "team1": "Finland", "team2": "Switzerland", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-18", "time": "16:20 UTC+2", "team1": "Canada", "team2": "Czech Republic", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-18", "time": "20:20 UTC+2", "team1": "USA", "team2": "Hungary", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-18", "time": "20:20 UTC+2", "team1": "Sweden", "team2": "Slovakia", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-19", "time": "16:20 UTC+2", "team1": "Latvia", "team2": "Great Britain", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-19", "time": "16:20 UTC+2", "team1": "Slovenia", "team2": "Italy", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-19", "time": "20:20 UTC+2", "team1": "Germany", "team2": "Austria", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-19", "time": "20:20 UTC+2", "team1": "Denmark", "team2": "Norway", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-20", "time": "16:20 UTC+2", "team1": "Finland", "team2": "Great Britain", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-20", "time": "16:20 UTC+2", "team1": "Canada", "team2": "Slovenia", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-20", "time": "20:20 UTC+2", "team1": "Switzerland", "team2": "Hungary", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-20", "time": "20:20 UTC+2", "team1": "Czech Republic", "team2": "Italy", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-21", "time": "16:20 UTC+2", "team1": "Latvia", "team2": "USA", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-21", "time": "16:20 UTC+2", "team1": "Slovenia", "team2": "Denmark", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-21", "time": "20:20 UTC+2", "team1": "Germany", "team2": "Finland", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-21", "time": "20:20 UTC+2", "team1": "Sweden", "team2": "Czech Republic", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-22", "time": "16:20 UTC+2", "team1": "Austria", "team2": "USA", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-22", "time": "16:20 UTC+2", "team1": "Slovakia", "team2": "Denmark", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-22", "time": "20:20 UTC+2", "team1": "Hungary", "team2": "Latvia", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-22", "time": "20:20 UTC+2", "team1": "Italy", "team2": "Norway", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-23", "time": "12:20 UTC+2", "team1": "Switzerland", "team2": "Austria", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-23", "time": "12:20 UTC+2", "team1": "Czech Republic", "team2": "Slovakia", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-23", "time": "16:20 UTC+2", "team1": "Great Britain", "team2": "Germany", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-23", "time": "16:20 UTC+2", "team1": "Norway", "team2": "Canada", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-23", "time": "20:20 UTC+2", "team1": "Latvia", "team2": "Finland", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-23", "time": "20:20 UTC+2", "team1": "Denmark", "team2": "Italy", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-24", "time": "16:20 UTC+2", "team1": "Great Britain", "team2": "Latvia", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-24", "time": "16:20 UTC+2", "team1": "Denmark", "team2": "Italy", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-24", "time": "20:20 UTC+2", "team1": "Finland", "team2": "Austria", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-24", "time": "20:20 UTC+2", "team1": "Slovakia", "team2": "Canada", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-25", "time": "16:20 UTC+2", "team1": "USA", "team2": "Hungary", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-25", "time": "16:20 UTC+2", "team1": "Czech Republic", "team2": "Norway", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-25", "time": "20:20 UTC+2", "team1": "Germany", "team2": "Great Britain", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-25", "time": "20:20 UTC+2", "team1": "Slovenia", "team2": "Italy", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Preliminary Round - Group A", "date": "2026-05-26", "time": "12:20 UTC+2", "team1": "Hungary", "team2": "Latvia", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-26", "time": "12:20 UTC+2", "team1": "Norway", "team2": "Denmark", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-26", "time": "16:20 UTC+2", "team1": "USA", "team2": "Austria", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-26", "time": "16:20 UTC+2", "team1": "Sweden", "team2": "Slovakia", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    {"round": "Preliminary Round - Group A", "date": "2026-05-26", "time": "20:20 UTC+2", "team1": "Switzerland", "team2": "Finland", "group": "Group A", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Preliminary Round - Group B", "date": "2026-05-26", "time": "20:20 UTC+2", "team1": "Czech Republic", "team2": "Canada", "group": "Group B", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Quarterfinals", "date": "2026-05-28", "time": "16:20 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Quarterfinals", "date": "2026-05-28", "time": "16:20 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Fribourg / BCF Arena"},
+    {"round": "Quarterfinals", "date": "2026-05-28", "time": "20:20 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Quarterfinals", "date": "2026-05-28", "time": "20:20 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Fribourg / BCF Arena"},
+    
+    {"round": "Semifinals", "date": "2026-05-30", "time": "15:20 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Semifinals", "date": "2026-05-30", "time": "20:00 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Zurich / Swiss Life Arena"},
+    
+    {"round": "Bronze Medal Game", "date": "2026-05-31", "time": "15:30 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Zurich / Swiss Life Arena"},
+    {"round": "Gold Medal Game", "date": "2026-05-31", "time": "20:20 UTC+2", "team1": "TBD", "team2": "TBD", "ground": "Zurich / Swiss Life Arena"}
+  ]
+}
