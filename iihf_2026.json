@@ -2,6 +2,7 @@
   "name": "IIHF World Championship 2026",
   "matches": [
     {
+      "game": 1,
       "round": "Group A",
       "date": "2026-05-15",
       "time": "16:20 UTC+2",
@@ -11,6 +12,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 2,
       "round": "Group B",
       "date": "2026-05-15",
       "time": "16:20 UTC+2",
@@ -20,6 +22,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 3,
       "round": "Group A",
       "date": "2026-05-15",
       "time": "20:20 UTC+2",
@@ -29,6 +32,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 4,
       "round": "Group B",
       "date": "2026-05-15",
       "time": "20:20 UTC+2",
@@ -38,6 +42,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 5,
       "round": "Group A",
       "date": "2026-05-16",
       "time": "12:20 UTC+2",
@@ -47,6 +52,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 6,
       "round": "Group B",
       "date": "2026-05-16",
       "time": "12:20 UTC+2",
@@ -56,6 +62,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 7,
       "round": "Group A",
       "date": "2026-05-16",
       "time": "16:20 UTC+2",
@@ -65,6 +72,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 8,
       "round": "Group B",
       "date": "2026-05-16",
       "time": "16:20 UTC+2",
@@ -74,6 +82,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 9,
       "round": "Group A",
       "date": "2026-05-16",
       "time": "20:20 UTC+2",
@@ -83,6 +92,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 10,
       "round": "Group B",
       "date": "2026-05-16",
       "time": "20:20 UTC+2",
@@ -92,6 +102,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 11,
       "round": "Group A",
       "date": "2026-05-17",
       "time": "12:20 UTC+2",
@@ -101,6 +112,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 12,
       "round": "Group B",
       "date": "2026-05-17",
       "time": "12:20 UTC+2",
@@ -110,6 +122,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 13,
       "round": "Group A",
       "date": "2026-05-17",
       "time": "16:20 UTC+2",
@@ -119,6 +132,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 14,
       "round": "Group B",
       "date": "2026-05-17",
       "time": "16:20 UTC+2",
@@ -128,6 +142,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 15,
       "round": "Group A",
       "date": "2026-05-17",
       "time": "20:20 UTC+2",
@@ -137,6 +152,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 16,
       "round": "Group B",
       "date": "2026-05-17",
       "time": "20:20 UTC+2",
@@ -146,240 +162,267 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 17,
       "round": "Group A",
       "date": "2026-05-18",
       "time": "16:20 UTC+2",
       "team1": "Finland",
+      "team2": "USA",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 18,
+      "round": "Group B",
+      "date": "2026-05-18",
+      "time": "16:20 UTC+2",
+      "team1": "Canada",
+      "team2": "Denmark",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 19,
+      "round": "Group A",
+      "date": "2026-05-18",
+      "time": "20:20 UTC+2",
+      "team1": "Germany",
       "team2": "Switzerland",
       "group": "Group A",
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 20,
       "round": "Group B",
       "date": "2026-05-18",
-      "time": "16:20 UTC+2",
-      "team1": "Canada",
+      "time": "20:20 UTC+2",
+      "team1": "Sweden",
       "team2": "Czech Republic",
       "group": "Group B",
       "ground": "Fribourg / BCF Arena"
     },
     {
-      "round": "Group A",
-      "date": "2026-05-18",
-      "time": "20:20 UTC+2",
-      "team1": "USA",
-      "team2": "Hungary",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-18",
-      "time": "20:20 UTC+2",
-      "team1": "Sweden",
-      "team2": "Slovakia",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
+      "game": 21,
       "round": "Group A",
       "date": "2026-05-19",
       "time": "16:20 UTC+2",
       "team1": "Latvia",
-      "team2": "Great Britain",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-19",
-      "time": "16:20 UTC+2",
-      "team1": "Slovenia",
-      "team2": "Slovakia",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
-      "round": "Group A",
-      "date": "2026-05-19",
-      "time": "20:20 UTC+2",
-      "team1": "Germany",
       "team2": "Austria",
       "group": "Group A",
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 22,
       "round": "Group B",
       "date": "2026-05-19",
-      "time": "20:20 UTC+2",
-      "team1": "Denmark",
-      "team2": "Norway",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
-      "round": "Group A",
-      "date": "2026-05-20",
       "time": "16:20 UTC+2",
-      "team1": "Finland",
-      "team2": "Great Britain",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-20",
-      "time": "16:20 UTC+2",
-      "team1": "Canada",
-      "team2": "Slovenia",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
-      "round": "Group A",
-      "date": "2026-05-20",
-      "time": "20:20 UTC+2",
-      "team1": "Switzerland",
-      "team2": "Hungary",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-20",
-      "time": "20:20 UTC+2",
-      "team1": "Czech Republic",
-      "team2": "Italy",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
-      "round": "Group A",
-      "date": "2026-05-21",
-      "time": "16:20 UTC+2",
-      "team1": "Latvia",
-      "team2": "USA",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-21",
-      "time": "16:20 UTC+2",
-      "team1": "Slovenia",
-      "team2": "Denmark",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
-      "round": "Group A",
-      "date": "2026-05-21",
-      "time": "20:20 UTC+2",
-      "team1": "Germany",
-      "team2": "Finland",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-21",
-      "time": "20:20 UTC+2",
-      "team1": "Sweden",
-      "team2": "Czech Republic",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
-      "round": "Group A",
-      "date": "2026-05-22",
-      "time": "16:20 UTC+2",
-      "team1": "Austria",
-      "team2": "USA",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-22",
-      "time": "16:20 UTC+2",
-      "team1": "Slovakia",
-      "team2": "Denmark",
-      "group": "Group B",
-      "ground": "Fribourg / BCF Arena"
-    },
-    {
-      "round": "Group A",
-      "date": "2026-05-22",
-      "time": "20:20 UTC+2",
-      "team1": "Hungary",
-      "team2": "Latvia",
-      "group": "Group A",
-      "ground": "Zurich / Swiss Life Arena"
-    },
-    {
-      "round": "Group B",
-      "date": "2026-05-22",
-      "time": "20:20 UTC+2",
       "team1": "Italy",
       "team2": "Norway",
       "group": "Group B",
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 23,
       "round": "Group A",
-      "date": "2026-05-23",
-      "time": "12:20 UTC+2",
-      "team1": "Switzerland",
-      "team2": "Austria",
+      "date": "2026-05-19",
+      "time": "20:20 UTC+2",
+      "team1": "Hungary",
+      "team2": "Great Britain",
       "group": "Group A",
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 24,
       "round": "Group B",
-      "date": "2026-05-23",
-      "time": "12:20 UTC+2",
-      "team1": "Czech Republic",
+      "date": "2026-05-19",
+      "time": "20:20 UTC+2",
+      "team1": "Slovenia",
       "team2": "Slovakia",
       "group": "Group B",
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 25,
       "round": "Group A",
-      "date": "2026-05-23",
+      "date": "2026-05-20",
       "time": "16:20 UTC+2",
-      "team1": "Great Britain",
+      "team1": "Austria",
+      "team2": "Switzerland",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 26,
+      "round": "Group B",
+      "date": "2026-05-20",
+      "time": "16:20 UTC+2",
+      "team1": "Czech Republic",
+      "team2": "Italy",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 27,
+      "round": "Group A",
+      "date": "2026-05-20",
+      "time": "20:20 UTC+2",
+      "team1": "USA",
       "team2": "Germany",
       "group": "Group A",
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 28,
       "round": "Group B",
-      "date": "2026-05-23",
-      "time": "16:20 UTC+2",
-      "team1": "Norway",
-      "team2": "Canada",
+      "date": "2026-05-20",
+      "time": "20:20 UTC+2",
+      "team1": "Sweden",
+      "team2": "Slovenia",
       "group": "Group B",
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 29,
       "round": "Group A",
-      "date": "2026-05-23",
-      "time": "20:20 UTC+2",
+      "date": "2026-05-21",
+      "time": "16:20 UTC+2",
       "team1": "Latvia",
       "team2": "Finland",
       "group": "Group A",
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 30,
       "round": "Group B",
-      "date": "2026-05-23",
+      "date": "2026-05-21",
+      "time": "16:20 UTC+2",
+      "team1": "Canada",
+      "team2": "Norway",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 31,
+      "round": "Group A",
+      "date": "2026-05-21",
+      "time": "20:20 UTC+2",
+      "team1": "Switzerland",
+      "team2": "Great Britain",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 32,
+      "round": "Group B",
+      "date": "2026-05-21",
       "time": "20:20 UTC+2",
       "team1": "Denmark",
+      "team2": "Slovakia",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 33,
+      "round": "Group A",
+      "date": "2026-05-22",
+      "time": "16:20 UTC+2",
+      "team1": "Germany",
+      "team2": "Hungary",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 34,
+      "round": "Group B",
+      "date": "2026-05-22",
+      "time": "16:20 UTC+2",
+      "team1": "Canada",
+      "team2": "Slovenia",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 35,
+      "round": "Group A",
+      "date": "2026-05-22",
+      "time": "20:20 UTC+2",
+      "team1": "Finland",
+      "team2": "Great Britain",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 36,
+      "round": "Group B",
+      "date": "2026-05-22",
+      "time": "20:20 UTC+2",
+      "team1": "Sweden",
       "team2": "Italy",
       "group": "Group B",
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 37,
+      "round": "Group A",
+      "date": "2026-05-23",
+      "time": "12:20 UTC+2",
+      "team1": "Latvia",
+      "team2": "USA",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 38,
+      "round": "Group B",
+      "date": "2026-05-23",
+      "time": "12:20 UTC+2",
+      "team1": "Denmark",
+      "team2": "Slovenia",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 39,
+      "round": "Group A",
+      "date": "2026-05-23",
+      "time": "16:20 UTC+2",
+      "team1": "Switzerland",
+      "team2": "Hungary",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 40,
+      "round": "Group B",
+      "date": "2026-05-23",
+      "time": "16:20 UTC+2",
+      "team1": "Slovakia",
+      "team2": "Czech Republic",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 41,
+      "round": "Group A",
+      "date": "2026-05-23",
+      "time": "20:20 UTC+2",
+      "team1": "Austria",
+      "team2": "Germany",
+      "group": "Group A",
+      "ground": "Zurich / Swiss Life Arena"
+    },
+    {
+      "game": 42,
+      "round": "Group B",
+      "date": "2026-05-23",
+      "time": "20:20 UTC+2",
+      "team1": "Norway",
+      "team2": "Sweden",
+      "group": "Group B",
+      "ground": "Fribourg / BCF Arena"
+    },
+    {
+      "game": 43,
       "round": "Group A",
       "date": "2026-05-24",
       "time": "16:20 UTC+2",
@@ -389,6 +432,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 44,
       "round": "Group B",
       "date": "2026-05-24",
       "time": "16:20 UTC+2",
@@ -398,6 +442,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 45,
       "round": "Group A",
       "date": "2026-05-24",
       "time": "20:20 UTC+2",
@@ -407,6 +452,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 46,
       "round": "Group B",
       "date": "2026-05-24",
       "time": "20:20 UTC+2",
@@ -416,6 +462,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 47,
       "round": "Group A",
       "date": "2026-05-25",
       "time": "16:20 UTC+2",
@@ -425,6 +472,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 48,
       "round": "Group B",
       "date": "2026-05-25",
       "time": "16:20 UTC+2",
@@ -434,6 +482,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 49,
       "round": "Group A",
       "date": "2026-05-25",
       "time": "20:20 UTC+2",
@@ -443,6 +492,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 50,
       "round": "Group B",
       "date": "2026-05-25",
       "time": "20:20 UTC+2",
@@ -452,6 +502,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 51,
       "round": "Group A",
       "date": "2026-05-26",
       "time": "12:20 UTC+2",
@@ -461,6 +512,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 52,
       "round": "Group B",
       "date": "2026-05-26",
       "time": "12:20 UTC+2",
@@ -470,6 +522,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 53,
       "round": "Group A",
       "date": "2026-05-26",
       "time": "16:20 UTC+2",
@@ -479,6 +532,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 54,
       "round": "Group B",
       "date": "2026-05-26",
       "time": "16:20 UTC+2",
@@ -488,6 +542,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 55,
       "round": "Group A",
       "date": "2026-05-26",
       "time": "20:20 UTC+2",
@@ -497,6 +552,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 56,
       "round": "Group B",
       "date": "2026-05-26",
       "time": "20:20 UTC+2",
@@ -506,6 +562,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 57,
       "round": "Quarterfinals",
       "date": "2026-05-28",
       "time": "16:20 UTC+2",
@@ -514,6 +571,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 58,
       "round": "Quarterfinals",
       "date": "2026-05-28",
       "time": "16:20 UTC+2",
@@ -522,6 +580,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 59,
       "round": "Quarterfinals",
       "date": "2026-05-28",
       "time": "20:20 UTC+2",
@@ -530,6 +589,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 60,
       "round": "Quarterfinals",
       "date": "2026-05-28",
       "time": "20:20 UTC+2",
@@ -538,6 +598,7 @@
       "ground": "Fribourg / BCF Arena"
     },
     {
+      "game": 61,
       "round": "Semifinals",
       "date": "2026-05-30",
       "time": "15:20 UTC+2",
@@ -546,6 +607,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 62,
       "round": "Semifinals",
       "date": "2026-05-30",
       "time": "20:00 UTC+2",
@@ -554,6 +616,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 63,
       "round": "Bronze Medal Game",
       "date": "2026-05-31",
       "time": "15:30 UTC+2",
@@ -562,6 +625,7 @@
       "ground": "Zurich / Swiss Life Arena"
     },
     {
+      "game": 64,
       "round": "Gold Medal Game",
       "date": "2026-05-31",
       "time": "20:20 UTC+2",
