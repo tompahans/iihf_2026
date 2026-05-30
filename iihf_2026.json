@@ -648,8 +648,8 @@
             "round": "Bronze Medal Game",
             "date": "2026-05-31",
             "time": "15:30 UTC+2",
-            "team1": "TBD",
-            "team2": "TBD",
+            "team1": "Canada",
+            "team2": "Norway",
             "ground": "Zurich / Swiss Life Arena"
         },
         {
@@ -657,8 +657,8 @@
             "round": "Gold Medal Game",
             "date": "2026-05-31",
             "time": "20:20 UTC+2",
-            "team1": "TBD",
-            "team2": "TBD",
+            "team1": "Switzerland",
+            "team2": "Finland",
             "ground": "Zurich / Swiss Life Arena"
         }
     ]
